@@ -23,7 +23,7 @@ Currently seeking opportunities in **C#, ASP.NET, and SQL Server development**.
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 
