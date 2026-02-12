@@ -18,5 +18,5 @@
 - Portfolio Website
 
 ## Contact
-- LinkedIn:
-- Email:
+- LinkedIn: https://www.linkedin.com/in/ganindu-wickramasinghe/
+- Email: ganindupabasara01@gmail.com
