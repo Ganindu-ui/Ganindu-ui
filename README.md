@@ -6,6 +6,11 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Ganindu's GitHub Stats](https://github-readme-stats-topaz-three-94.vercel.app/api?username=Ganindu-ui&show_icons=true)
+
+
 ##  About Me
 
 Motivated and detail-oriented Software Developer with experience in:
